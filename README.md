@@ -1,4 +1,4 @@
-# jupyter-notebook
+# [Deprecated] jupyter-notebook
 
 > This project does not have any active maintainers. We recommend that you use [nteract](https://nteract.io/desktop), a native notebook application built using Electron, React (like this project), Redux, and RxJS, or [Hydrogen](https://nteract.io/atom), a LightTable-inspired package for Atom that allows users to run code blocks and selections using Jupyter kernels.
 
